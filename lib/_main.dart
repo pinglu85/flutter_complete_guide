@@ -10,7 +10,6 @@ void main() => runApp(MyApp()); // The runApp() function takes the given Widget
 class MyApp extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
-    // TODO: implement createState
     return MyAppState();
   }
 }
